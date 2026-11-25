@@ -1,0 +1,64 @@
+
+body {
+    background-color: #F4F5F2;
+    color: #172B3A;
+}
+
+header {
+    background-color: #172B3A;
+    color: #FFFFFF;
+}
+
+header h1 {
+    color: #F2C66D;
+}
+
+header a {
+    color: #FFFFFF;
+}
+
+#about {
+    background-color: #FFFFFF;
+}
+
+#about h2 {
+    color: #367C80;
+}
+
+#skills {
+    background-color: #DCE7E8;
+}
+
+#skills h2 {
+    color: #172B3A;
+}
+
+.skill {
+    background-color: #367C80;
+    color: #FFFFFF;
+}
+
+#experience {
+    background-color: #FFFFFF;
+}
+
+#experience h2 {
+    color: #367C80;
+}
+
+.timeline-item {
+    background-color: #F4F5F2;
+}
+
+#contact {
+    background-color: #172B3A;
+    color: #FFFFFF;
+}
+
+#contact h2 {
+    color: #F2C66D;
+}
+
+#contact a {
+    color: #DCE7E8;
+}
